@@ -1,0 +1,12 @@
+.contacts {
+    display: flex;
+    width: 900px;
+    height: 900px;
+    margin-left: 250px;
+    border: solid;
+    border-width: 7px;
+    border-color: #02fad5;
+}
+body {
+    background-color: #00705f;
+}

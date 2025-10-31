@@ -1,0 +1,121 @@
+body {
+    background-image: url("bub.MOV");
+    background-color: black;
+    background-size: cover;
+}
+#teef {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+
+}
+h1 {
+    font-family: 'Bitcount Grid Single';
+    color: #b0ffbe;
+    text-align: center;
+    font-size: 45px;
+}
+p {
+    font-family: 'Bitcount Grid Single';
+    color: #69a373;
+    text-align: center;
+    font-size: 20px;
+}
+h2 {
+    font-family: 'Bitcount Grid Single';
+    color: #b0ffbe;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 40px;
+}
+h3 {
+    font-family: 'Bitcount Grid Single';
+    color: #b0ffbe;
+    font-size: 20px;
+    text-align: center;
+}
+h4 {
+    font-family: 'Bitcount Grid Single';
+    color: #b0ffbe;
+    font-size: 20px;
+}
+#wedo {
+    font-family: 'Bitcount Grid Single';
+    color: #b0ffbe;
+    font-size: 25px;
+}
+#skele {
+    display: flex;
+    width: 30px;
+    height: 100px;
+}
+#medkit {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #b0ffbe;
+}
+#scythe {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #b0ffbe;
+}
+#broker {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #b0ffbe;
+}
+#images {
+    display: flex;
+    align-content: center;
+    margin-left: 200px;
+    margin-top: -250px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+h5 {
+     font-family: 'Bitcount Grid Single';
+    color: #b0ffbe;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 40px;
+}
+h6 {
+    font-family: 'Bitcount Grid Single';
+    color: #69a373;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 40px;
+}
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: #69a373;
+    font-family: 'Bitcount Grid Single';
+}
+#sword {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin-top: -150px;
+}
+#click {
+    font-family: 'Bitcount Grid Single';
+    color: #b0ffbe;
+    font-size: 15px;
+}

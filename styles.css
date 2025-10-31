@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+.crystal {
+    display: flex;
+    align-content: center;
+    margin-left: 605px;
+    margin-top: 280px;
+    width: 215px;
+    height: 215px;
+    animation-name: medbaby;
+    animation-duration: 10s;
+}
+@keyframes medbaby {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+h1 {
+    display: flex;
+    color: white;
+    font-family: 'Noto Sans';
+    font-size: 10px;
+    text-align: center;
+    margin-left: 605px;
+    animation-name: medbaby;
+    animation-duration: 10s;
+}
+h2 {
+    display: flex;
+    color: white;
+    font-family: 'Noto Sans';
+    font-size: 10px;
+    text-align: center;
+    margin-left: 680px;
+    animation-name: medbaby;
+    animation-duration: 10s;
+}
+#cooltext {
+    display: flex;
+    margin-top: 300px;
+    margin-bottom: -265px;
+}
